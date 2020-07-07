@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebServiceRequestEntity>
    <description></description>
-   <name>Signupdemo1</name>
+   <name>Signupdemo3</name>
    <tag></tag>
    <elementGuidId>d604beb0-278b-421c-a301-f42d4fc17692</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
