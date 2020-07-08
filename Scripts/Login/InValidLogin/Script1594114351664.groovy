@@ -15,7 +15,7 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 
-'This is InValid login scenario\r\n'
+'This is Invalid login scenario.\r\n'
 response = WS.sendRequest(findTestObject('User Login/Login URL'))
 
 WS.verifyResponseStatusCode(response, 200)
